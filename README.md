@@ -1,6 +1,6 @@
 ---
 icon: gitlab
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: geranimo-qzgN45hseN0-unsplash.jpg
 coverY: 0
 layout:
   cover:
