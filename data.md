@@ -14,7 +14,7 @@ See Table 1 for metadata on the observations collected. The following subsection
 |   |   |   |
 |   |   |   |
 
-> \*Table 1: \*
+> \<em>Table 1: \</em>
 
 ## Location data
 
