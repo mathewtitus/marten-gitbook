@@ -14,7 +14,7 @@ See Table 1 for metadata on the observations collected. The following subsection
 |   |   |   |
 |   |   |   |
 
-> \<em>Table 1: \</em>
+> _Table 1:_&#x20;
 
 ## Location data
 
@@ -22,4 +22,4 @@ Collar GPS sensors are battery-powered and so seek to record location data at re
 
 ## Accelerometer data
 
-Complementing the geospatial location data, the collars are also outfitted with an accelerometer, which measures the collar's acceleration along three orthogonal axes in meters per second squared (m/s^2). This gives another lens by which we can study the marten's activities. For example, a fixed location and low accelerations likely corresponds to resting, while high accelerations may indicate vertical movement, digging, or \[ACTIVITY].
+Complementing the geospatial location data, the collars are also outfitted with an accelerometer, which measures the collar's acceleration along three orthogonal axes in meters per second squared (m/s^2). This gives another lens by which we can study the marten's activities. For example, a fixed location and low accelerations likely corresponds to resting, while high accelerations may indicate vertical movement, digging, or \[some other activity].
