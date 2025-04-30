@@ -1,6 +1,6 @@
 # Introduction
 
-Hunting, trapping, and habitat destruction through logging operations have led to population declines in a number of terrestrial mammals, including the Humboldt marten (\*Martes caurina humboldtensis\*). This small but mighty predator persists in Northern California and Southwestern Oregon, though it is considered threatened under the Endangered Species Act classification.
+Hunting, trapping, and habitat destruction through logging operations have led to population declines in a number of terrestrial mammals, including the Humboldt marten (\<em>Martes caurina humboldtensis\</em>). This small but mighty predator persists in Northern California and Southwestern Oregon, though it is considered threatened under the Endangered Species Act classification.
 
 ![Fren shape](marten.jpg)
 
